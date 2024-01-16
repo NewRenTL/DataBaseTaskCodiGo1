@@ -32,7 +32,7 @@ insert into post (user_id_fk, title, content, creation_date) values (1, 'Rammboc
 
 --select * from post;
 
-/*
+
 insert into category (category_name, description) values ('After the Wedding (Efter brylluppet)', 'Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.');
 insert into category (category_name, description) values ('Dune', 'Curabitur at ipsum ac tellus semper interdum.');
 insert into category (category_name, description) values ('Red Riding: 1983', 'Duis mattis egestas metus. Aenean fermentum.');
@@ -43,7 +43,7 @@ insert into category (category_name, description) values ('Asterix and the Big F
 insert into category (category_name, description) values ('Fierce Creatures', 'Maecenas pulvinar lobortis est. Phasellus sit amet erat.');
 insert into category (category_name, description) values ('Human Scale, The', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.');
 insert into category (category_name, description) values ('Me and the Colonel ', 'Proin eu mi. Nulla ac enim.');
-*/
+
 --select * from category;
 
 
